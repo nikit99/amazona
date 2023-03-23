@@ -2,4 +2,9 @@
 2.install tools
 3.create react app
 4.create git repository
+<<<<<<< HEAD
 5.list products,etc
+=======
+
+> > > > > > > c82872a (video-4-create-git-repository) 6. add routing
+> > > > > > > 1.npm i react-router-dom
