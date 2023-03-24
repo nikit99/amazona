@@ -2,3 +2,4 @@
 2.install tools
 3.create react app
 4.create git repository
+5.list products
