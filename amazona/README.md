@@ -4,6 +4,7 @@
 4.create git repository
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 5.list products,etc
 =======
 
@@ -12,3 +13,6 @@
 =======
 5.list products
 >>>>>>> 1b9c855 (7 list products)
+=======
+5.list products,etc
+>>>>>>> 1f2de9f (7 list products.)
